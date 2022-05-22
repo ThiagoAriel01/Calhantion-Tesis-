@@ -1,5 +1,7 @@
 # Calhantion-Tesis-
-Links GDD: https://docs.google.com/document/d/1J3NplVkjCocyY1ewXOlLhDHE7ocS9fYvwmDfWS0X9PA/edit?usp=sharing
+Download game here: https://thiagoa7.itch.io/calhantion
+
+GDD: https://docs.google.com/document/d/1J3NplVkjCocyY1ewXOlLhDHE7ocS9fYvwmDfWS0X9PA/edit?usp=sharing
 
 TDD: https://docs.google.com/document/d/1TGmkIPoowU6Q4Pp_tCMWw0sSHNw_P9AxrYnh1GCLmT0/edit?usp=sharing
 
