@@ -7,7 +7,7 @@ Level Desing: https://docs.google.com/document/d/18A8R-ygF2bqRxrRbNDdHL2V-OsPjW3
 
 Habilidades: https://docs.google.com/document/d/1y8Lke-PFKk1VAKHe0uHniJ8IXyRlhNxn/edit?usp=sharing&ouid=113401288742206380795&rtpof=true&sd=true
 
-Extended HighConcept
+EXTENDED HIGHCONCEPT
 
 Concepto
 
