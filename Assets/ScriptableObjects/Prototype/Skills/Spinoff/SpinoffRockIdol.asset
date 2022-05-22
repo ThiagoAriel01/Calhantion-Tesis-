@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6bb6b2023fa7bf42b8f916eb4edd31a, type: 3}
+  m_Name: SpinoffRockIdol
+  m_EditorClassIdentifier: 
+  damage: 250
+  cooldown: 25
+  canReduceCooldown: 0
+  mana: 10
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 0.2
+  icon: {fileID: 21300000, guid: 365fc731178fc184e8d76e5199fd25c1, type: 3}
+  castsPreview: 0
+  explosion: {fileID: 5829584321360271792, guid: 785d064ddaafe9b49b6eaf9659e540ff,
+    type: 3}
+  explosionScale: 2
+  gravity: 80
+  jumpForce: 15
+  duration: 5

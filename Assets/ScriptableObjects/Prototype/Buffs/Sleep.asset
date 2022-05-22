@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa5d9d58b750c24295c0d971efb3edd, type: 3}
+  m_Name: Sleep
+  m_EditorClassIdentifier: 
+  displayEffect: -Sleep!
+  _cueStart: {fileID: 11400000, guid: 8f5e757480ae78c43bd85bdf05b421f7, type: 2}
+  displayColor: {r: 0.74792814, g: 0, b: 1, a: 1}
+  fxPrefab: {fileID: 0}
+  duration: 5
+  rate: 0.5

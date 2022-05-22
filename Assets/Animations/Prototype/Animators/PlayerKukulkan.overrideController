@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerKukulkan
+  m_Controller: {fileID: 9100000, guid: 7b746467f72bd6144ae0fdf588443d01, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3143092818932081777, guid: f4b7e2db3e6485b4b82e76524545971f,
+      type: 3}
+    m_OverrideClip: {fileID: 6671003759817658764, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 2228279419410072438, guid: 1b7e4a6b8ff7b194ea8decd0ef01cf95,
+      type: 3}
+    m_OverrideClip: {fileID: -251351218608039746, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: fa3da38625356ea4cbb73210b5a520f8, type: 3}
+    m_OverrideClip: {fileID: -251351218608039746, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d58d2e7029cbf0e4e8d87145820d4dc3, type: 3}
+    m_OverrideClip: {fileID: 3448865269658845071, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1838f0f83e378d94aacf46358fe32a8b, type: 3}
+    m_OverrideClip: {fileID: 3448865269658845071, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 1130d486a1cc52e48a5154538d9a8a9e, type: 3}
+    m_OverrideClip: {fileID: -143414878140401238, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: -623603649343465320, guid: 190b08189ae40554799ad21d89390775,
+      type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400002, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: -9074897927467982025, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: -623603649343465320, guid: 0f0023b105d16014387268fb249b7cef,
+      type: 3}
+    m_OverrideClip: {fileID: 1697182010996676337, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7478122292733868173, guid: f4b7e2db3e6485b4b82e76524545971f,
+      type: 3}
+    m_OverrideClip: {fileID: 6671003759817658764, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400126, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400122, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400128, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400096, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7264957955340080123, guid: 67dcc08dc191f2d4195e2f84399c9a07,
+      type: 3}
+    m_OverrideClip: {fileID: 7369332065728676582, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8247437a6a01b924ab6a1e22dd1b2068, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400124, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5f03974295a3e12448cca83860511fc4, type: 3}
+    m_OverrideClip: {fileID: 7899769553936889190, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}
+  - m_OriginalClip: {fileID: 7400016, guid: e5366f5926c8dd949a168f5f0095a4d3, type: 3}
+    m_OverrideClip: {fileID: 205857726293629326, guid: 716fca8b82c891042a1963131779e022,
+      type: 3}

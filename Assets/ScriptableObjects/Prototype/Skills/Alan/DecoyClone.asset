@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 254aeb3b7d5e000478ef41c95d66af29, type: 3}
+  m_Name: DecoyClone
+  m_EditorClassIdentifier: 
+  displayName: Decoy
+  displayDesc: Becomes invisible on cast and creates a copy of himself that advances
+    forward.
+  _tags:
+  - transform
+  damage: 0
+  cooldown: 35
+  canReduceCooldown: 1
+  mana: 30
+  recoilVertical: 0
+  recoil: 0
+  delay: 0.5
+  postDelay: 3.5
+  icon: {fileID: 21300000, guid: a6ca6131a23cc104fb3bb8ffc57f967d, type: 3}
+  cancelPostDelay: 1
+  castsPreview: 0
+  _invunerablePhase: 0
+  _particles: {fileID: 0}
+  duration: 3
+  _speedMult: 1.5
+  _decoy: {fileID: 7645337450997746834, guid: aacfcddaf8d4dad4eb429137382cb35e, type: 3}
+  _waitingHitBuff: {fileID: 11400000, guid: 6d8fe7b58aa7484499f7ade918b23fe8, type: 2}
+  _hittedBuffs:
+  - {fileID: 11400000, guid: 45026dc14c89d9b4e91edd134cf36a6a, type: 2}
+  _damageAbsorbRate: 1
+  _damageThesehold: 1
+  _hitMaxDuration: 1
+  _ignoreHitCondition: 1

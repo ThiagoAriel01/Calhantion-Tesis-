@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: KukulkanFlaps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: e1bfa41ac484c4c488d9b0a34d45412b, type: 3}
+  - {fileID: 8300000, guid: 9546791cf57b12f4cb29fd664f4deaa2, type: 3}
+  - {fileID: 8300000, guid: 33e76f594a2e699408f8c96672e497d5, type: 3}
+  - {fileID: 8300000, guid: 5eb819c2809729745bde16807100414d, type: 3}
+  - {fileID: 8300000, guid: dfeaaa31f77b3d94ba30223564e4bedf, type: 3}
+  - {fileID: 8300000, guid: 4761bc66a97d74e4482da409981a383d, type: 3}
+  - {fileID: 8300000, guid: e139df6b697dece4592fab5ec8d50576, type: 3}
+  - {fileID: 8300000, guid: 490e7fe764b4b06478720c8a3d471719, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 1
+  maxVolume: 1
+  range: 40

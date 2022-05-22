@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6154ab9d932ba7144a8ae60d1794dc2b, type: 3}
+  m_Name: Donut
+  m_EditorClassIdentifier: 
+  displayName: Donut
+  displayDesc: Launches a Donut that explodes on certain time elapsed, it generates
+    an persistent aura that damages enemies on time, ends after 15 seconds.
+  _tags:
+  - ultimate
+  damage: 30
+  cooldown: 35
+  canReduceCooldown: 1
+  mana: 20
+  recoilVertical: 10
+  recoil: 0
+  delay: 0
+  postDelay: 0.4
+  icon: {fileID: 21300000, guid: b0f2117b80f24854da59cd72d8739391, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 1
+  range: 100
+  duration: 2
+  speed: 60
+  shots: 1
+  spread: 0
+  castPoint: proyectilePoint
+  proyectile: {fileID: 5746166765626138452, guid: 07559a9caa718d24dbc604655fe3f4d1,
+    type: 3}
+  explosion: {fileID: 8229611783973892486, guid: 4df561d6ce6dfcd48910e96c7693e597,
+    type: 3}
+  explosionForceMult: 1
+  explosionScale: 15
+  shotPattern:
+  - {x: 0, y: 0}
+  explosionRate: 0

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9136622490197674922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2199411866933451674, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f8fdd0dca0f33a48bd9111c19db6931, type: 2}
+    - target: {fileID: 2199411866933451674, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3f8fdd0dca0f33a48bd9111c19db6931, type: 2}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -94.10465
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 13.860901
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 202.49615
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451686, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2199411866933451708, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_Name
+      value: FenrirExplosion
+      objectReference: {fileID: 0}
+    - target: {fileID: 2492766967072758087, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: sceneId
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2492766967072758087, guid: 6c4e1c3462bb8e542aab9461fae51286,
+        type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6c4e1c3462bb8e542aab9461fae51286, type: 3}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19ffb26d36a99504dbea713a3f1b7c72, type: 3}
+  m_Name: BlackHoleTransform
+  m_EditorClassIdentifier: 
+  displayName: 
+  displayDesc: 
+  _tags:
+  - transform
+  damage: 40
+  cooldown: 65
+  canReduceCooldown: 0
+  mana: 25
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 1
+  icon: {fileID: 21300000, guid: 463af71e7202ffa4981a880744cf3c0e, type: 3}
+  cancelPostDelay: 1
+  castsPreview: 0
+  _duration: 5
+  range: 0
+  radius: 2
+  durationExplosion: 5
+  explosion: {fileID: 2980392140638970907, guid: c48cbcb0242c91f4b9c07ceb0696d193,
+    type: 3}
+  rate: 0.2

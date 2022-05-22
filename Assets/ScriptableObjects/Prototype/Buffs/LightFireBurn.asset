@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed3f4fe5468281946836f7218be7671b, type: 3}
+  m_Name: LightFireBurn
+  m_EditorClassIdentifier: 
+  fxPrefab: {fileID: 5140521017805733033, guid: c004e484f758c4143a1b5b11d70ca55d,
+    type: 3}
+  duration: 2
+  rate: 1
+  pickupPrefab: {fileID: 625026951111961254, guid: 48d986e014b949443a2ecdd958529a94,
+    type: 3}

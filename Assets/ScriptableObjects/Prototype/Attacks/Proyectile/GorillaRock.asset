@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8273b839174db1540b29df6d74030cb5, type: 3}
+  m_Name: GorillaRock
+  m_EditorClassIdentifier: 
+  trigger: spearThrow
+  damage: 40
+  proyectile: {fileID: 1554848056330637304, guid: c3a77fb4959846346b49ddc41a5002f0,
+    type: 3}
+  delay: 1.2
+  fireRate: 2
+  spread: 0.02
+  proyectileSpeed: 50
+  explosionScale: 1
+  explosion: {fileID: 8774443032158917167, guid: 92f4ab401c1aef349a98593f44ecb8b8,
+    type: 3}

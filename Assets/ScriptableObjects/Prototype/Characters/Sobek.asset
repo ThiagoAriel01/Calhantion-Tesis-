@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Sobek
+  m_EditorClassIdentifier: 
+  description: "Though Sobek was worshipped in the Old Kingdom, he truly gained prominence
+    in the Middle Kingdom (c. 2055\u20131650 BCE), most notably under the Twelfth
+    Dynasty pharaoh, Amenemhat III. Amenemhat III had taken a particular interest
+    in the Faiyum of Egypt, a region heavily associated with Sobek. Amenemhat and
+    many of his dynastic contemporaries engaged in building projects to promote Sobek
+    \u2013 projects that were often executed in the Faiyum. In this period, Sobek
+    also underwent an important change: he was often fused with the falcon-headed
+    god of divine kingship, Horus. This brought Sobek even closer with the kings
+    of Egypt, thereby giving him a place of greater prominence in the Egyptian pantheon.
+    The fusion added a finer level of complexity to the god's nature, as he was adopted
+    into the divine triad of Horus and his two parents: Osiris and Isis.\r\n\r\nSobek
+    first acquired a role as a solar deity through his connection to Horus, but this
+    was further strengthened in later periods with the emergence of Sobek-Ra, a fusion
+    of Sobek and Egypt's primary sun god, Ra. Sobek-Horus persisted as a figure in
+    the New Kingdom (1550\u20131069 BCE), but it was not until the last dynasties
+    of Egypt that Sobek-Ra gained prominence. This understanding of the god was maintained
+    after the fall of Egypt's last native dynasty in Ptolemaic and Roman Egypt (c.
+    332 BCE \u2013 390 CE). The prestige of both Sobek and Sobek-Ra endured in this
+    time period and tributes to him attained greater prominence \u2013 both through
+    the expansion of his dedicated cultic sites and a concerted scholarly effort
+    to make him the subject of religious doctrine."
+  spr: {fileID: 21300000, guid: b5761462d6af6a1458b1396920e3054a, type: 3}
+  icon: {fileID: 21300000, guid: 1a3dc0c217437614e815c4bf93e92999, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: 40a43ad40de303147be1cb1c50fca30e, type: 2}

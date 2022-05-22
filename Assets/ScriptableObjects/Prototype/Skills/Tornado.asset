@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b2359f060ead544adee0d053823b8b, type: 3}
+  m_Name: Tornado
+  m_EditorClassIdentifier: 
+  displayName: Tornado
+  displayDesc: Summons a Tornado, if the owner gets inside he will receive an upward
+    boost, the affected enemies will be drawn to the center and apply damage over
+    time.
+  _tags:
+  - ultimate
+  damage: 16
+  cooldown: 20
+  canReduceCooldown: 1
+  mana: 40
+  recoilVertical: 5
+  recoil: 0
+  delay: 0
+  postDelay: 0.2
+  icon: {fileID: 21300000, guid: 95cb0925a023c2b4cb77c16dc51d6fd7, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 1
+  range: 17
+  radius: 20
+  duration: 10
+  explosion: {fileID: 4446987405215795464, guid: 5cb1db4de8a4c1c40b280873160240bd,
+    type: 3}
+  rate: 0.2
+  castPoint: proyectilePoint
+  layers:
+    serializedVersion: 2
+    m_Bits: 4352

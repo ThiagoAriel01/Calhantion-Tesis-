@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d68efab82f77064c86ab8a2b401326a, type: 3}
+  m_Name: Ruins5CP
+  m_EditorClassIdentifier: 
+  _levelName: cpmap5
+  _displayName: Ruins X5
+  _compatibleGamemodes:
+  - {fileID: 11400000, guid: ac3790d262b896c43aed8316231d8cd8, type: 2}
+  - {fileID: 11400000, guid: f95ea52c8ef59ae489c032ccb06e5c28, type: 2}

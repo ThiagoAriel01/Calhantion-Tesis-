@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Kukulkan
+  m_EditorClassIdentifier: 
+  description: "Kukulkan is the name of a Mesoamerican serpent deity. Prior to the
+    Spanish Conquest of the Yucatan, Kukulkan was worshipped by the Yucatec Maya
+    people of the Yucatan Peninsula, in what is now Mexico. The depiction of the
+    Feathered Serpent is present in other cultures of Mesoamerica. Little is known
+    of the mythology of this deity.\r\nAlthough heavily Mexicanised, Kukulkan has
+    his origins among the Maya of the Classic Period, the War Serpent, and he has
+    been identified as the Postclassic version of the Vision Serpent of Classic Maya
+    art.\r\nThe cult of Kukulkan/Quetzalcoatl was the first Mesoamerican religion
+    to transcend the old Classic Period linguistic and ethnic divisions. This cult
+    facilitated communication and peaceful trade among peoples of many different
+    social and ethnic backgrounds. Although the cult was originally centred on the
+    ancient city of Chichen Itza in the modern Mexican state of Yucat\xE1n, it spread
+    as far as the Guatemalan Highlands.\r\nSizeable temples to Kukulkan are found
+    at archaeological sites throughout the north of the Yucat\xE1n Peninsula, such
+    as Chichen Itza, Uxmal and Mayapan.\r\nKukulkan was a demon closely associated
+    with the Itza state in the northern Yucat\xE1n Peninsula, where the cult formed
+    the core of the state religion. Although the worshipers of Kukulkan had its origins
+    in earlier Maya traditions, the Itza worship of Kukulkan was heavily influenced
+    by the Quetzalcoatl cult of central Mexico.  Kukulkan headed a pantheon of deities
+    of mixed Maya and non-Maya provenance, used to promote the Itza political and
+    commercial agenda. It also eased the passage of Itza merchants into central Mexico
+    and other non-Maya areas, promoting the Itza economy.\r\nAtChichen Itza, Kukulkan
+    ceased to be the Vision Serpent that served as a messenger between the king and
+    the gods and came instead to symbolise the divinity of the state.\r\nChichen
+    Itza served as a temple to Kukulkan. During the spring and fall equinoxes the
+    shadow cast by the angle of the sun and edges of the nine steps of the pyramid
+    combined with the northern stairway and the stone serpent head carvings create
+    the illusion of a massive serpent descending the pyramid.\r\nAfter the fall of
+    Chichen Itza, the nearby Postclassic city of Mayapan became the centre of the
+    revived Kukulkan worshipers, with temples decorated with feathered serpent columns.
+    At the time of the Spanish colonization, the high priest of Kukulkan was the
+    family patriarch of the Xiu faction and was one of the two most powerful men
+    in the city.\r\nThe cult of Kukulkan spread as far as the Guatemalan Highlands,
+    where Postclassic feathered serpent sculptures are found with open mouths from
+    which protrude the heads of human warriors.\r"
+  spr: {fileID: 21300000, guid: e9628d4277492d944a0468c4d73416a4, type: 3}
+  icon: {fileID: 21300000, guid: 85ae50950368bef4bbf88b08f6d189b0, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: 7b25cdce3ffa32f428a6222a770ad2f1, type: 2}

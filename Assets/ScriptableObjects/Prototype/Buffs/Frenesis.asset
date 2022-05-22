@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ca3295b3e0c2e84d97cee5f057c1925, type: 3}
+  m_Name: Frenesis
+  m_EditorClassIdentifier: 
+  displayEffect: +Frenesis!
+  _cueStart: {fileID: 11400000, guid: db66d68119618384cbea8a4f2ffdbddb, type: 2}
+  displayColor: {r: 1, g: 0.6744842, b: 0, a: 1}
+  fxPrefab: {fileID: 0}
+  duration: 15
+  rate: 0.5
+  speedMult: 1.5
+  jumpMult: 1.15
+  vampireHealPercent: 0.35
+  buffOnEnd: {fileID: 11400000, guid: 3ed79075f2878e44182f3c16e8fac486, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45cd3682e00e4264db894523f7b920e5, type: 3}
+  m_Name: WindMorph2
+  m_EditorClassIdentifier: 
+  displayName: Wind's Fury
+  displayDesc: Morphs into a tornado, that attracts enemies and deals damage over
+    time and applies slowdown.
+  _tags:
+  - transform
+  damage: 6
+  cooldown: 35
+  canReduceCooldown: 1
+  mana: 30
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 6
+  icon: {fileID: 21300000, guid: dbbff57c6dd2c3d4298fce4ac7bf50b5, type: 3}
+  cancelPostDelay: 1
+  castsPreview: 0
+  _invunerablePhase: 1
+  _particles: {fileID: 2932157750149901342, guid: dcbe7eb52179d6342aa14c9ac2ad0d8b,
+    type: 3}
+  duration: 5
+  _speedMult: 1.5

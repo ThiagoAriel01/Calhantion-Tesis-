@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa5d9d58b750c24295c0d971efb3edd, type: 3}
+  m_Name: Stun
+  m_EditorClassIdentifier: 
+  displayEffect: -STUNNED!
+  _cueStart: {fileID: 11400000, guid: 60f8eb20a6c5e284f8f5f02a3039e42a, type: 2}
+  displayColor: {r: 1, g: 0.113484085, b: 0, a: 1}
+  fxPrefab: {fileID: 0}
+  duration: 2
+  rate: 0.5

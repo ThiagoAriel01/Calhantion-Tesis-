@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Bastet
+  m_EditorClassIdentifier: 
+  description: "Cats in ancient Egypt were highly revered, partly due to their ability
+    to combat vermin such as mice, rats (which threatened key food supplies), and
+    snakes\u2014especially cobras. Cats of royalty were, in some instances, known
+    to be dressed in golden jewelry and were allowed to eat from the plates of their
+    owners. Dennis C. Turner and Patrick Bateson estimate that during the Twenty-second
+    Dynasty (c.\u2009945\u2013715 BC), Bastet worship changed from being a lioness
+    deity into being predominantly a major cat deity. Because domestic cats tend
+    to be tender and protective of their offspring, Bastet was also regarded as a
+    good mother and sometimes was depicted with numerous kittens."
+  spr: {fileID: 21300000, guid: 7c28a78f4efb6fc4e8226a20f9f535dc, type: 3}
+  icon: {fileID: 21300000, guid: db37a5832179b3146bb39fca72683bb0, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: ad82f861c5c021449bcbc6de9e6f430f, type: 2}

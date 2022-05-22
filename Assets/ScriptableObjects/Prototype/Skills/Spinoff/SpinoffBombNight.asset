@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6154ab9d932ba7144a8ae60d1794dc2b, type: 3}
+  m_Name: SpinoffBombNight
+  m_EditorClassIdentifier: 
+  displayName: Life Drain Grenade
+  displayDesc: Launches a Grenade that explodes on contact and applies light damage
+    and steals life for each enemy hitted.
+  _tags:
+  - primary
+  damage: 60
+  cooldown: 20
+  canReduceCooldown: 1
+  mana: 30
+  recoilVertical: 5
+  recoil: 0
+  delay: 0
+  postDelay: 0.2
+  icon: {fileID: 21300000, guid: b1a38c7986bcfd84babd643912d67c95, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 1
+  range: 140
+  duration: 20
+  speed: 80
+  shots: 1
+  spread: 0
+  castPoint: proyectilePoint
+  proyectile: {fileID: 5149019258395065283, guid: abb47ca1048584b4a87fea4bd3554ce2,
+    type: 3}
+  explosion: {fileID: 4393812250429424916, guid: 83ac13754f737ba4cbeecd52fa2998f4,
+    type: 3}
+  explosionForceMult: 1
+  explosionScale: 22
+  shotPattern: []
+  explosionRate: -1

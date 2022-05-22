@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 0c09a6c59ca208c499973e7f78b9dad8
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 500326e2e45ca734fa85c1eb3c0a4b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 8055420863b676b43a812d0689e45a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body.002
+    second: {fileID: 2100000, guid: 0bc8d4f1af6e70e4b9dcb9086a0ab8f2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.39
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.017
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.031
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.018
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.032
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.019
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.033
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.004
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.005
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.009
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.010
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.021
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.022
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.029
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.038
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.030
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.016
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.006
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pelvis.028
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: bastet4(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: bastet4(Clone)
+      position: {x: -0, y: -0.063154936, z: 0.11848603}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: Armature
+      position: {x: -0, y: 0.0012273145, z: 0.00064517715}
+      rotation: {x: 0.7071068, y: -0.00000008429371, z: -0.00000008429371, w: 0.7071068}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: Pelvis
+      parentName: Root
+      position: {x: 4.6818764e-11, y: 0.011501414, z: 0.0001963705}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.004
+      parentName: Pelvis
+      position: {x: -0, y: 0.000874775, z: 0}
+      rotation: {x: 0.05477693, y: 0.00017824408, z: 0.0069238106, w: 0.9984746}
+      scale: {x: 0.99999964, y: 1, z: 1.0000002}
+    - name: Pelvis.005
+      parentName: Pelvis.004
+      position: {x: -1.3478709e-11, y: 0.0013318701, z: 2.4575592e-11}
+      rotation: {x: -0.09588395, y: -0.000010653253, z: -0.015618657, w: 0.9952701}
+      scale: {x: 0.9999989, y: 0.9999989, z: 0.9999984}
+    - name: Pelvis.006
+      parentName: Pelvis.005
+      position: {x: -3.7300697e-11, y: 0.0017685695, z: 1.0899665e-10}
+      rotation: {x: -0.04329027, y: -0.001090702, z: 0.008625993, w: 0.99902475}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: Pelvis.007
+      parentName: Pelvis.006
+      position: {x: 2.1764348e-13, y: 0.0015545951, z: 1.1330445e-10}
+      rotation: {x: 0.17945145, y: 1.1641531e-10, z: -0.000000042997268, w: 0.98376685}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999985}
+    - name: Pelvis.009
+      parentName: Pelvis.007
+      position: {x: -5.7604494e-11, y: 0.0026368534, z: -0.00024072651}
+      rotation: {x: -0.095740706, y: -8.761706e-12, z: 0.000000022240107, w: 0.9954064}
+      scale: {x: 0.99999976, y: 0.9999993, z: 1.0000011}
+    - name: Pelvis.010
+      parentName: Pelvis.009
+      position: {x: -4.1965238e-13, y: 0.0014864543, z: 1.9962641e-11}
+      rotation: {x: 0.31493536, y: -0.00000011321996, z: -0.00000011132833, w: 0.94911313}
+      scale: {x: 1.0000004, y: 0.9999991, z: 1.0000007}
+    - name: Pelvis.016
+      parentName: Pelvis.010
+      position: {x: -6.53069e-13, y: 0.001104946, z: 1.10398e-10}
+      rotation: {x: 0.7960505, y: -0.016975123, z: -0.028844394, w: 0.60430413}
+      scale: {x: 1.0000002, y: 1.0000015, z: 1.0000045}
+    - name: Pelvis.016_end
+      parentName: Pelvis.016
+      position: {x: -0, y: 0.0015573192, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.020
+      parentName: Pelvis.007
+      position: {x: -0.0019094575, y: 0.0010374328, z: -0.0004781441}
+      rotation: {x: 0.07263907, y: 0.047957487, z: 0.93095016, w: 0.3546202}
+      scale: {x: 1.0000018, y: 1.0000013, z: 1.0000008}
+    - name: Pelvis.021
+      parentName: Pelvis.020
+      position: {x: -2.6151536e-10, y: 0.0010322902, z: 3.1962988e-10}
+      rotation: {x: -0.040272508, y: 0.10714502, z: -0.3973846, w: 0.9104854}
+      scale: {x: 1.0000055, y: 1.0000058, z: 1.0000013}
+    - name: Pelvis.022
+      parentName: Pelvis.021
+      position: {x: -6.91926e-10, y: 0.0015901043, z: -7.264315e-12}
+      rotation: {x: 0.01773072, y: 0.09298082, z: 0.010392288, w: 0.99545586}
+      scale: {x: 1.0000037, y: 1.0000005, z: 0.99999905}
+    - name: Pelvis.023
+      parentName: Pelvis.022
+      position: {x: 7.7001744e-10, y: 0.0024813751, z: 0}
+      rotation: {x: -0.01746323, y: -0.17282392, z: 0.029246364, w: 0.98436356}
+      scale: {x: 0.9999979, y: 1.0000014, z: 1.0000044}
+    - name: Pelvis.038
+      parentName: Pelvis.023
+      position: {x: -2.1792947e-10, y: 0.0007367156, z: -1.1622904e-10}
+      rotation: {x: 0.3647411, y: 0.14227553, z: -0.08093787, w: 0.9166082}
+      scale: {x: 0.9999946, y: 1.0000113, z: 0.9999969}
+    - name: Pelvis.039
+      parentName: Pelvis.038
+      position: {x: -2.1066514e-10, y: 0.00062960724, z: 5.8114513e-10}
+      rotation: {x: -0.39619708, y: -0.03955691, z: 0.16426815, w: 0.902485}
+      scale: {x: 1.0000038, y: 0.9999933, z: 1.0000129}
+    - name: Pelvis.040
+      parentName: Pelvis.039
+      position: {x: -4.2133028e-10, y: 0.0006381803, z: -2.905726e-11}
+      rotation: {x: -0.0077262176, y: -0.03973852, z: -0.016009482, w: 0.99905205}
+      scale: {x: 1.0000027, y: 1.0000037, z: 1.0000007}
+    - name: Pelvis.041
+      parentName: Pelvis.040
+      position: {x: -4.5038756e-10, y: 0.0005518388, z: -4.3585895e-11}
+      rotation: {x: 0.024001839, y: 0.00837758, z: 0.08785548, w: 0.9958088}
+      scale: {x: 0.99999934, y: 1.0000043, z: 1.0000005}
+    - name: Pelvis.041_end
+      parentName: Pelvis.041
+      position: {x: -0, y: 0.00036696708, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.042
+      parentName: Pelvis.023
+      position: {x: -2.1792947e-10, y: 0.0007367156, z: -1.1622904e-10}
+      rotation: {x: 0.0825514, y: 0.0061775716, z: 0.0034791725, w: 0.9965616}
+      scale: {x: 1.0000013, y: 1.0000017, z: 0.9999985}
+    - name: Pelvis.043
+      parentName: Pelvis.042
+      position: {x: -2.1792947e-10, y: 0.00047184053, z: 7.264314e-11}
+      rotation: {x: -0.09836012, y: -0.0065288744, z: -0.019121496, w: 0.9949457}
+      scale: {x: 1.0000015, y: 0.99999845, z: 1.0000037}
+    - name: Pelvis.044
+      parentName: Pelvis.043
+      position: {x: 5.6661653e-10, y: 0.00054589857, z: -4.0861772e-11}
+      rotation: {x: -0.014908541, y: -0.0031800775, z: 0.07462807, w: 0.9970949}
+      scale: {x: 1.0000017, y: 1.0000002, z: 0.9999986}
+    - name: Pelvis.045
+      parentName: Pelvis.044
+      position: {x: 2.469867e-10, y: 0.0007298581, z: 1.1622904e-10}
+      rotation: {x: -0.007311535, y: 0.012872377, z: -0.03424699, w: 0.99930376}
+      scale: {x: 1.000002, y: 1.0000044, z: 1.0000017}
+    - name: Pelvis.045_end
+      parentName: Pelvis.045
+      position: {x: -0, y: 0.00047594367, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.046
+      parentName: Pelvis.023
+      position: {x: -2.1792947e-10, y: 0.0007367156, z: -1.1622904e-10}
+      rotation: {x: -0.23318142, y: 0.008622452, z: 0.23940054, w: 0.94246465}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.0000001}
+    - name: Pelvis.047
+      parentName: Pelvis.046
+      position: {x: -2.2519378e-10, y: 0.0005338693, z: -6.973743e-10}
+      rotation: {x: 0.19513652, y: 0.06608877, z: -0.21960346, w: 0.95358706}
+      scale: {x: 1.0000004, y: 0.9999929, z: 1.0000114}
+    - name: Pelvis.048
+      parentName: Pelvis.047
+      position: {x: 2.6151536e-10, y: 0.00052657607, z: 2.905726e-11}
+      rotation: {x: 0.067862675, y: -0.0036951005, z: 0.09547735, w: 0.99310887}
+      scale: {x: 1.0000027, y: 1.000004, z: 0.9999999}
+    - name: Pelvis.049
+      parentName: Pelvis.048
+      position: {x: -2.397224e-10, y: 0.00046154563, z: 0}
+      rotation: {x: 0.044521585, y: 0.017417768, z: 0.11541221, w: 0.9921666}
+      scale: {x: 1.0000051, y: 0.9999993, z: 1.0000006}
+    - name: Pelvis.049_end
+      parentName: Pelvis.049
+      position: {x: -0, y: 0.0005077894, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.050
+      parentName: Pelvis.023
+      position: {x: -2.1792947e-10, y: 0.0007367156, z: -1.1622904e-10}
+      rotation: {x: 0.7927848, y: 0.04060338, z: -0.457719, w: 0.40042105}
+      scale: {x: 0.9999915, y: 1.0000014, z: 1.0000088}
+    - name: Pelvis.051
+      parentName: Pelvis.050
+      position: {x: 5.2303073e-10, y: 0.00075378554, z: 0}
+      rotation: {x: -0.6089392, y: -0.12156463, z: 0.4852417, w: 0.6155937}
+      scale: {x: 0.999996, y: 1.0000014, z: 1.0000045}
+    - name: Pelvis.052
+      parentName: Pelvis.051
+      position: {x: -7.119028e-10, y: 0.00032115777, z: -3.8500872e-10}
+      rotation: {x: -0.11760022, y: -0.020594843, z: 0.13942298, w: 0.98300934}
+      scale: {x: 1.0000004, y: 0.99999577, z: 1.0000128}
+    - name: Pelvis.053
+      parentName: Pelvis.052
+      position: {x: -5.2303073e-10, y: 0.00050468283, z: -1.7434358e-10}
+      rotation: {x: -0.04234333, y: -0.036253076, z: 0.013302677, w: 0.9983566}
+      scale: {x: 1.0000012, y: 0.99999756, z: 1.0000042}
+    - name: Pelvis.053_end
+      parentName: Pelvis.053
+      position: {x: -0, y: 0.00036662153, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.027
+      parentName: Pelvis.007
+      position: {x: 0.0019169092, y: 0.0010210054, z: -0.00048602087}
+      rotation: {x: 0.13729626, y: 0.12599547, z: 0.92374074, w: -0.3346311}
+      scale: {x: 1.0000014, y: 1.0000012, z: 1.0000017}
+    - name: Pelvis.028
+      parentName: Pelvis.027
+      position: {x: -5.2303073e-10, y: 0.0010317289, z: 2.3245808e-10}
+      rotation: {x: 0.056721408, y: 0.07305026, z: 0.39668778, w: 0.91328263}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.000001}
+    - name: Pelvis.029
+      parentName: Pelvis.028
+      position: {x: -2.6151536e-10, y: 0.0015473975, z: 1.452863e-11}
+      rotation: {x: 0.017943496, y: 0.042399548, z: -0.015918557, w: 0.99881274}
+      scale: {x: 1.0000037, y: 1.000002, z: 1.0000001}
+    - name: Pelvis.030
+      parentName: Pelvis.029
+      position: {x: 8.353963e-10, y: 0.002491866, z: 1.4528628e-10}
+      rotation: {x: 0.019062746, y: -0.7652986, z: 0.00086257956, w: 0.6433925}
+      scale: {x: 1.0000019, y: 1.0000033, z: 1.0000021}
+    - name: Pelvis.054
+      parentName: Pelvis.030
+      position: {x: -8.717179e-11, y: 0.0007692728, z: -0.0000000016126782}
+      rotation: {x: 0.0910655, y: 0.3894576, z: -0.19143917, w: 0.89631516}
+      scale: {x: 1.0000042, y: 1.0000048, z: 0.9999937}
+    - name: Pelvis.055
+      parentName: Pelvis.054
+      position: {x: -1.4528628e-10, y: 0.000639687, z: -1.1622904e-10}
+      rotation: {x: -0.19425772, y: 0.19979848, z: 0.06811972, w: 0.95796883}
+      scale: {x: 0.999999, y: 0.9999992, z: 1.0000134}
+    - name: Pelvis.056
+      parentName: Pelvis.055
+      position: {x: 4.939734e-10, y: 0.00038304724, z: -4.6491616e-10}
+      rotation: {x: -0.054198872, y: 0.016132439, z: 0.12708741, w: 0.99027824}
+      scale: {x: 1.0000033, y: 0.99999917, z: 0.9999971}
+    - name: Pelvis.057
+      parentName: Pelvis.056
+      position: {x: -1.1622904e-10, y: 0.00060353137, z: -1.1622904e-10}
+      rotation: {x: -0.010085493, y: 0.115891956, z: -0.16876714, w: 0.9787671}
+      scale: {x: 1.0000029, y: 1.0000085, z: 0.9999989}
+    - name: Pelvis.057_end
+      parentName: Pelvis.057
+      position: {x: -0, y: 0.0004675483, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.058
+      parentName: Pelvis.030
+      position: {x: -8.717179e-11, y: 0.0007692728, z: -0.0000000016126782}
+      rotation: {x: -0.16214198, y: 0.47833946, z: -0.02331463, w: 0.8627618}
+      scale: {x: 1.0000075, y: 1.000002, z: 0.99999803}
+    - name: Pelvis.059
+      parentName: Pelvis.058
+      position: {x: -2.3245808e-10, y: 0.0005479327, z: -5.811452e-11}
+      rotation: {x: 0.056706768, y: 0.02778967, z: 0.07473719, w: 0.9952017}
+      scale: {x: 0.99999774, y: 0.9999978, z: 1.0000012}
+    - name: Pelvis.060
+      parentName: Pelvis.059
+      position: {x: -1.7434358e-10, y: 0.00037739347, z: -5.811452e-11}
+      rotation: {x: -0.00765846, y: 0.10055787, z: 0.10582876, w: 0.9892572}
+      scale: {x: 0.9999977, y: 1.0000011, z: 1.0000052}
+    - name: Pelvis.061
+      parentName: Pelvis.060
+      position: {x: -3.7774434e-10, y: 0.00066187896, z: 2.9057257e-10}
+      rotation: {x: 0.025999194, y: 0.056081366, z: -0.1503153, w: 0.9867037}
+      scale: {x: 0.9999994, y: 1.0000056, z: 1}
+    - name: Pelvis.061_end
+      parentName: Pelvis.061
+      position: {x: -0, y: 0.00073636917, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.062
+      parentName: Pelvis.030
+      position: {x: -8.717179e-11, y: 0.0007692728, z: -0.0000000016126782}
+      rotation: {x: -0.31426165, y: 0.69314873, z: 0.16491573, w: 0.6273653}
+      scale: {x: 1.0000026, y: 0.99999744, z: 1.0000046}
+    - name: Pelvis.063
+      parentName: Pelvis.062
+      position: {x: 7.990747e-11, y: 0.00071031315, z: 2.3245808e-10}
+      rotation: {x: 0.2763666, y: 0.043386497, z: 0.0020101508, w: 0.9600704}
+      scale: {x: 1.0000023, y: 0.9999894, z: 1.0000135}
+    - name: Pelvis.064
+      parentName: Pelvis.063
+      position: {x: -1.6889533e-10, y: 0.0004324191, z: 1.6707925e-10}
+      rotation: {x: 0.02616324, y: -0.072242774, z: -0.033022914, w: 0.99649686}
+      scale: {x: 1.000001, y: 1.0000015, z: 1.000001}
+    - name: Pelvis.065
+      parentName: Pelvis.064
+      position: {x: -2.3245808e-10, y: 0.0005692891, z: -2.905726e-11}
+      rotation: {x: 0.046400413, y: 0.024313292, z: -0.10417195, w: 0.99317884}
+      scale: {x: 1.0000077, y: 0.99999887, z: 1.0000023}
+    - name: Pelvis.065_end
+      parentName: Pelvis.065
+      position: {x: -0, y: 0.00037222556, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.066
+      parentName: Pelvis.030
+      position: {x: -8.717179e-11, y: 0.0007692728, z: -0.0000000016126782}
+      rotation: {x: 0.19930159, y: -0.06941062, z: -0.886737, w: 0.4112888}
+      scale: {x: 1.000003, y: 0.9999952, z: 1.0000055}
+    - name: Pelvis.067
+      parentName: Pelvis.066
+      position: {x: -7.5548867e-10, y: 0.0006364654, z: 1.1622904e-10}
+      rotation: {x: -0.5642145, y: 0.352634, z: 0.49429584, w: 0.5594487}
+      scale: {x: 1.0000033, y: 1.0000025, z: 1.0000043}
+    - name: Pelvis.068
+      parentName: Pelvis.067
+      position: {x: -2.1792947e-10, y: 0.00025246383, z: 0.0000000011913477}
+      rotation: {x: -0.25125447, y: -0.016967483, z: 0.06548208, w: 0.9655544}
+      scale: {x: 1.0000002, y: 0.9999947, z: 1.0000029}
+    - name: Pelvis.069
+      parentName: Pelvis.068
+      position: {x: -4.794448e-10, y: 0.00048346506, z: -0.0000000011041759}
+      rotation: {x: -0.035130046, y: 0.027057072, z: 0.07121636, w: 0.99647486}
+      scale: {x: 1.000002, y: 1.0000039, z: 1.0000014}
+    - name: Pelvis.069_end
+      parentName: Pelvis.069
+      position: {x: -0, y: 0.00036832204, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.017
+      parentName: Pelvis
+      position: {x: -0.0017832995, y: 0.00026238943, z: -0.00019765693}
+      rotation: {x: 0.026308633, y: -0.055468347, z: 0.9964379, w: 0.05781646}
+      scale: {x: 1.0000052, y: 1.000002, z: 1.0000033}
+    - name: Pelvis.018
+      parentName: Pelvis.017
+      position: {x: -8.717179e-11, y: 0.0052300044, z: 2.905726e-11}
+      rotation: {x: -0.013767222, y: 0.030119982, z: 0.045212638, w: 0.99842834}
+      scale: {x: 1.0000057, y: 1.0000048, z: 0.99999917}
+    - name: Pelvis.019
+      parentName: Pelvis.018
+      position: {x: 2.2337766e-10, y: 0.005326491, z: 7.264315e-12}
+      rotation: {x: 0.7517848, y: -0.003100879, z: 0.064776465, w: 0.656212}
+      scale: {x: 1.0000052, y: 1.000002, z: 1.0000035}
+    - name: Pelvis.019_end
+      parentName: Pelvis.019
+      position: {x: -0, y: 0.0014780825, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.003
+      parentName: Pelvis
+      position: {x: -0.000025218304, y: -0.0000305422, z: -0.002802794}
+      rotation: {x: 0.95591205, y: -0.039939478, z: 0.24611767, w: -0.1551232}
+      scale: {x: 1, y: 1.0000048, z: 1.000005}
+    - name: Pelvis.008
+      parentName: Pelvis.003
+      position: {x: 2.3790625e-10, y: 0.001873639, z: -6.501562e-10}
+      rotation: {x: 0.15645312, y: -0.00000008102506, z: 0.08628355, w: 0.9839093}
+      scale: {x: 0.9999999, y: 1.0000023, z: 1.0000021}
+    - name: Pelvis.011
+      parentName: Pelvis.008
+      position: {x: 1.2167725e-10, y: 0.0009214873, z: -1.8160788e-10}
+      rotation: {x: -0.22429845, y: 0.00000038049023, z: -0.123700425, w: -0.9666377}
+      scale: {x: 0.9999981, y: 1.0000001, z: 1.0000039}
+    - name: Pelvis.012
+      parentName: Pelvis.011
+      position: {x: -1.0896473e-10, y: 0.0007816575, z: -7.173511e-11}
+      rotation: {x: 0.2630887, y: -0.00000037966515, z: 0.14509274, w: 0.953799}
+      scale: {x: 0.99999446, y: 0.9999979, z: 1.0000054}
+    - name: Pelvis.013
+      parentName: Pelvis.012
+      position: {x: -1.1259689e-10, y: 0.00094006554, z: -8.898785e-11}
+      rotation: {x: 0.29202902, y: -0.00000004588161, z: 0.16105303, w: 0.94275177}
+      scale: {x: 0.99999046, y: 0.9999909, z: 1.0000198}
+    - name: Pelvis.014
+      parentName: Pelvis.013
+      position: {x: -1.0714863e-10, y: 0.00085421524, z: -5.121344e-10}
+      rotation: {x: 0.23260836, y: 0.00000016211746, z: 0.1282829, w: 0.9640731}
+      scale: {x: 0.9999882, y: 0.99997956, z: 1.0000316}
+    - name: Pelvis.015
+      parentName: Pelvis.014
+      position: {x: 4.7218042e-11, y: 0.0010809717, z: 3.4868716e-10}
+      rotation: {x: 0.014545795, y: 0.000000036782616, z: 0.008021923, w: 0.999862}
+      scale: {x: 0.99999994, y: 0.9999969, z: 1.0000048}
+    - name: Pelvis.024
+      parentName: Pelvis.015
+      position: {x: -1.4891846e-10, y: 0.001065068, z: -5.802372e-10}
+      rotation: {x: -0.08854306, y: -0.00000010707218, z: -0.04883122, w: 0.99487466}
+      scale: {x: 1.0000066, y: 1.0000199, z: 0.9999722}
+    - name: Pelvis.025
+      parentName: Pelvis.024
+      position: {x: 4.9034127e-11, y: 0.00092577544, z: 2.7241185e-12}
+      rotation: {x: -0.07187682, y: 0.00000003697823, z: -0.039639793, w: 0.99662554}
+      scale: {x: 1.0000054, y: 1.0000032, z: 0.9999902}
+    - name: Pelvis.026
+      parentName: Pelvis.025
+      position: {x: 2.1792947e-10, y: 0.00071219896, z: -5.756969e-10}
+      rotation: {x: 0.023086851, y: 0.000000055425, z: 0.012732328, w: 0.9996524}
+      scale: {x: 0.9999991, y: 1.0000012, z: 1.0000024}
+    - name: Pelvis.026_end
+      parentName: Pelvis.026
+      position: {x: -0, y: 0.0015382132, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pelvis.031
+      parentName: Pelvis
+      position: {x: 0.0017019985, y: 0.00029516412, z: -0.00021859261}
+      rotation: {x: 0.020217914, y: -0.052885618, z: 0.9969132, w: -0.054393154}
+      scale: {x: 1.000007, y: 1.0000032, z: 1.0000029}
+    - name: Pelvis.032
+      parentName: Pelvis.031
+      position: {x: -1.2349335e-10, y: 0.0052229785, z: -2.7604397e-10}
+      rotation: {x: -0.0149373, y: 0.03226899, z: -0.032176927, w: 0.9988495}
+      scale: {x: 1.0000073, y: 1.0000093, z: 1.0000002}
+    - name: Pelvis.033
+      parentName: Pelvis.032
+      position: {x: 3.5413536e-10, y: 0.0053289765, z: 1.01700405e-10}
+      rotation: {x: 0.75484115, y: 0.029457906, z: -0.009532935, w: 0.65517646}
+      scale: {x: 1.000004, y: 1.0000012, z: 1.0000026}
+    - name: Pelvis.033_end
+      parentName: Pelvis.033
+      position: {x: -0, y: 0.0014781904, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cabeza
+      parentName: bastet4(Clone)
+      position: {x: -0, y: 0.0662018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 43.218674, z: 100}
+    - name: Ojos
+      parentName: bastet4(Clone)
+      position: {x: -0, y: 0.0662018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 43.218674, z: 100}
+    - name: Pollera
+      parentName: bastet4(Clone)
+      position: {x: -0, y: 0.0662018, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 43.218674, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.39
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

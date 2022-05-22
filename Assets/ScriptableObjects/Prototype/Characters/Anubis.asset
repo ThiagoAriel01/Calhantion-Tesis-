@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Anubis
+  m_EditorClassIdentifier: 
+  description: "In the Old Kingdom, Anubis was the most important god of the dead.
+    He was replaced in that role by Osiris during the Middle Kingdom (2000\u20131700
+    BC). In the Roman era, which started in 30 BC, tomb paintings depict him holding
+    the hand of deceased persons to guide them to Osiris.\n\r\nThe parentage of Anubis
+    varied between myths, times and sources. In early mythology, he was portrayed
+    as a son of Ra. In the Coffin Texts, which were written in the First Intermediate
+    Period (c. 2181\u20132055 BC), Anubis is the son of either the cow goddess Hesat
+    or the cat-headed Bastet. Another tradition depicted him as the son of Ra and
+    Nephthys. The Greek Plutarch (c. 40\u2013120 AD) stated that Anubis was the illegitimate
+    son of Nephthys and Osiris, but that he was adopted by Osiris's wife Isis"
+  spr: {fileID: 21300000, guid: 0a58487e7a8159c40aea62da77e2438c, type: 3}
+  icon: {fileID: 21300000, guid: 48b091d1454f46243a37b8cad88618f8, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: 30ae6ae762b42fb48af3a417c4ab947f, type: 2}

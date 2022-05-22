@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Kukulkanplanemask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature.001
+    m_Weight: 0
+  - m_Path: Armature.001/Bone
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3/Cabeza 1
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3/Cabeza 1/MandibulaInf
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3/Cabeza 1/MandibulaSup
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3/Cabeza 1/PlumaCabDer
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/ColumnaA3/Cabeza 1/PlumaCabIzq
+    m_Weight: 0
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/L.Ala1
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/L.Ala1/L.Ala2
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/L.Ala1/L.Ala2/L.Ala3
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/L.Ala1/L.Ala2/L.Ala3/L.Ala4
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/L.Ala1/L.Ala2/L.Ala3/L.Ala4/L.Ala5
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/R.Ala1
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/R.Ala1/R.Ala2
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/R.Ala1/R.Ala2/R.Ala3
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/R.Ala1/R.Ala2/R.Ala3/R.Ala4
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaA1/ColumnaA2/R.Ala1/R.Ala2/R.Ala3/R.Ala4/R.Ala5
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2/ColumnaB3
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2/ColumnaB3/ColumnaB4
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2/ColumnaB3/ColumnaB4/ColumnaB5
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2/ColumnaB3/ColumnaB4/ColumnaB5/ColumnaB6
+    m_Weight: 1
+  - m_Path: Armature.001/Bone/ColumnaB1/ColumnaB2/ColumnaB3/ColumnaB4/ColumnaB5/ColumnaB6/Cola
+    m_Weight: 1
+  - m_Path: body
+    m_Weight: 0
+  - m_Path: Cabeza
+    m_Weight: 0
+  - m_Path: eyes
+    m_Weight: 0
+  - m_Path: feathers
+    m_Weight: 0
+  - m_Path: pinches
+    m_Weight: 0
+  - m_Path: tail
+    m_Weight: 0
+  - m_Path: wings1.001
+    m_Weight: 0
+  - m_Path: wings1.002
+    m_Weight: 0

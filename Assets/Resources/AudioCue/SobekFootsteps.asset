@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: SobekFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: f61fa04cd17775e4ea91ab9c6064aad9, type: 3}
+  - {fileID: 8300000, guid: 76aa8ce67f2ddf04da2bf6548bda3265, type: 3}
+  - {fileID: 8300000, guid: 4e666ab3fa3405e419ada103fcc106b1, type: 3}
+  - {fileID: 8300000, guid: ad6c3dfffa3454b42831631855e0af60, type: 3}
+  - {fileID: 8300000, guid: 048ff757a7054b84592835372e88f1d2, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 0.6
+  maxVolume: 0.6
+  range: 40

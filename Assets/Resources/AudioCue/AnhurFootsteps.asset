@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: AnhurFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 3631261122b16a4409fd3c9142cfc4d5, type: 3}
+  - {fileID: 8300000, guid: 5a022c85d301688409ddfaeba26f6e35, type: 3}
+  - {fileID: 8300000, guid: 01bc5af3b334ed248a4e4edad61afd71, type: 3}
+  - {fileID: 8300000, guid: ecf06c57c32bf8e479dee2287a1c7e0d, type: 3}
+  - {fileID: 8300000, guid: 4f13d94ceef8bd5469cfd6090c684d07, type: 3}
+  - {fileID: 8300000, guid: 2f397b4cd777337468537967f32ba37c, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 0.75
+  maxVolume: 0.75
+  range: 30

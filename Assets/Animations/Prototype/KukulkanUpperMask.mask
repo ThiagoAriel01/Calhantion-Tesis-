@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: KukulkanUpperMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/root
+    m_Weight: 0
+  - m_Path: Armature/root/headIK
+    m_Weight: 0
+  - m_Path: Armature/root/headPole
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/leftwings
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/leftwings/leftwings1
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/leftwings/leftwings1/leftwings2
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/leftwings/leftwings1/leftwings2/leftwings3
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/leftwings/leftwings1/leftwings2/leftwings3/leftwings4
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/rightwings
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/rightwings/rightwings1
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/rightwings/rightwings1/rightwings2
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/rightwings/rightwings1/rightwings2/rightwings3
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/rightwings/rightwings1/rightwings2/rightwings3/rightwings4
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006/root.007
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006/root.007/head
+      1
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006/root.007/head
+      1/lower
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006/root.007/head
+      1/lower/lower1
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/root.002/root.003/root.004/root.005/root.006/root.007/head
+      1/upper
+    m_Weight: 1
+  - m_Path: Armature/root/pelvis/tail 1
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4/tail5
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4/tail5/tail6
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+    m_Weight: 0
+  - m_Path: Armature/root/pelvis/tail 1/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8/tail9
+    m_Weight: 0
+  - m_Path: Armature/root/tailIK
+    m_Weight: 0
+  - m_Path: Armature/root/tailPole
+    m_Weight: 0
+  - m_Path: body
+    m_Weight: 0
+  - m_Path: eyes
+    m_Weight: 0
+  - m_Path: feathers
+    m_Weight: 0
+  - m_Path: head
+    m_Weight: 0
+  - m_Path: pinches
+    m_Weight: 0
+  - m_Path: tail
+    m_Weight: 0
+  - m_Path: teeth
+    m_Weight: 0
+  - m_Path: tongue
+    m_Weight: 0
+  - m_Path: wings1
+    m_Weight: 0

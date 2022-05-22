@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6154ab9d932ba7144a8ae60d1794dc2b, type: 3}
+  m_Name: SobekBasic
+  m_EditorClassIdentifier: 
+  displayName: 
+  displayDesc: 
+  _tags:
+  - basic
+  damage: 20
+  cooldown: 0.1
+  canReduceCooldown: 0
+  mana: 0
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 0.05
+  icon: {fileID: 21300000, guid: 60d97b62354248a468d460b9bf51ee2e, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 0
+  range: 200
+  duration: 0.6
+  speed: 0
+  shots: 1
+  spread: 0
+  castPoint: proyectilePoint
+  proyectile: {fileID: 183906607689402875, guid: ef146864ba74e714ba854bc9819eb29a,
+    type: 3}
+  explosion: {fileID: 7196514524056738229, guid: 9795fb13611191449bc496a5dbfe2849,
+    type: 3}
+  explosionForceMult: 1
+  explosionScale: 2
+  shotPattern: []
+  explosionRate: -1

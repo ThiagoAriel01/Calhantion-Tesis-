@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6154ab9d932ba7144a8ae60d1794dc2b, type: 3}
+  m_Name: YingYangGrenade
+  m_EditorClassIdentifier: 
+  displayName: Yin Yang Grenade
+  displayDesc: Fires an Yin Yang disc that explodes on certain time elapsed, applies
+    damage and a push that affects every character including yours.
+  _tags:
+  - primary
+  damage: 85
+  cooldown: 25
+  canReduceCooldown: 1
+  mana: 20
+  recoilVertical: 6
+  recoil: 0
+  delay: 0
+  postDelay: 0.2
+  icon: {fileID: 21300000, guid: 3622e10b2268970459b701bb96136a0a, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 1
+  range: 150
+  duration: 2
+  speed: 75
+  shots: 1
+  spread: 0
+  castPoint: proyectilePoint
+  proyectile: {fileID: 5825235087622148219, guid: bb6c45b4298a6b241a1df9b398850856,
+    type: 3}
+  explosion: {fileID: 2415270182977447013, guid: 2226e93173ed64542b9f558d48c81800,
+    type: 3}
+  explosionForceMult: 1
+  explosionScale: 23
+  shotPattern:
+  - {x: 0, y: 0}
+  explosionRate: -1

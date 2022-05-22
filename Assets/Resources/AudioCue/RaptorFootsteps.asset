@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: RaptorFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 432d877f4c007fb469fc842e432bff3d, type: 3}
+  - {fileID: 8300000, guid: f72c1c40c054bd44d82ef4f4687b4b73, type: 3}
+  - {fileID: 8300000, guid: d88594085a5582b4a9df25b927c6b976, type: 3}
+  - {fileID: 8300000, guid: 7019a2053d9eb9743b161f3a0a1a67dc, type: 3}
+  - {fileID: 8300000, guid: f73e29ead096b614cba93aa66097e7e3, type: 3}
+  - {fileID: 8300000, guid: 997c45368777be743a31021bc5485ad0, type: 3}
+  - {fileID: 8300000, guid: 66f8c41e97a48a34eaaa436cfbd6f93c, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 1
+  maxVolume: 1
+  range: 35

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: Blink
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 50a389a329bf4e44bba5297b9e81f714, type: 3}
+  - {fileID: 8300000, guid: 64d9325e85e0d6a4c83a1bfff698b16c, type: 3}
+  - {fileID: 8300000, guid: 8bec348c577da4b4997b150fab62110b, type: 3}
+  - {fileID: 8300000, guid: 1d4b5f93ea34ea046854d9f356ee2e92, type: 3}
+  - {fileID: 8300000, guid: e805626233892f14293592a1d2ea983a, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 1
+  maxVolume: 1
+  range: 50

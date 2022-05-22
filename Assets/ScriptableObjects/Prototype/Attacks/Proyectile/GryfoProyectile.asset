@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8273b839174db1540b29df6d74030cb5, type: 3}
+  m_Name: GryfoProyectile
+  m_EditorClassIdentifier: 
+  trigger: proyectile
+  damage: 25
+  proyectile: {fileID: 4370436370339571154, guid: 5b5da728b4c3edc46af981676263c8e9,
+    type: 3}
+  delay: 0.75
+  fireRate: 3
+  spread: 0.01
+  proyectileSpeed: 40
+  explosionScale: 10
+  explosion: {fileID: 307331718257494820, guid: 81913ecad6ce344428d4718f6d0db1c2,
+    type: 3}

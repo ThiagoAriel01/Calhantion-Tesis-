@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aa67094bf1113b4fb66daf6d8558352, type: 3}
+  m_Name: CryptBreaker
+  m_EditorClassIdentifier: 
+  displayName: Crypt Breaker
+  displayDesc: Unleashes an army of spectres from the 3rd hell, applying constant
+    damage and slowdown to all enemies in its area.
+  _tags:
+  - ultimate
+  damage: 25
+  cooldown: 35
+  canReduceCooldown: 1
+  mana: 40
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 0.5
+  icon: {fileID: 21300000, guid: 130b712e4c7055e4db79e5a87386e05f, type: 3}
+  cancelPostDelay: 0.5
+  castsPreview: 1
+  range: 65
+  radius: 25
+  duration: 6
+  explosion: {fileID: 904234881444285963, guid: ff6644e38bf88dd4ba395d33bd06e8f3,
+    type: 3}
+  rate: 0.25
+  castPoint: proyectilePoint
+  layers:
+    serializedVersion: 2
+    m_Bits: 256
+  _scale: {x: 15, y: 6, z: 25}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: Footsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: cd99446b3d3367e4387d4c6efaa896a1, type: 3}
+  - {fileID: 8300000, guid: 1f3e892129485f544a14efc8a41c7ce7, type: 3}
+  - {fileID: 8300000, guid: 899790be06b6ae143a812b63ae8fdbe1, type: 3}
+  minPitch: 0.4
+  maxPitch: 0.5
+  minVolume: 1
+  maxVolume: 1
+  range: 40

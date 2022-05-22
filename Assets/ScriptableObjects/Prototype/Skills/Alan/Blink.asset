@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8119854bec81cc48bcd5b86e9cd151e, type: 3}
+  m_Name: Blink
+  m_EditorClassIdentifier: 
+  displayName: Blink
+  displayDesc: Teleports 30m in the desired direction.
+  _tags:
+  - primary
+  damage: 0
+  cooldown: 15
+  canReduceCooldown: 1
+  mana: 25
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 0.2
+  icon: {fileID: 21300000, guid: a81068d5397aa634e81bb064eddcd03b, type: 3}
+  cancelPostDelay: 0.2
+  castsPreview: 1
+  _invunerablePhase: 1
+  _particles: {fileID: 7253207712757369227, guid: fc156110a2dced64aae25566bbc1c593,
+    type: 3}
+  duration: 0.2
+  _speedMult: 1
+  range: 30
+  castPoint: proyectilePoint
+  _layers:
+    serializedVersion: 2
+    m_Bits: 257

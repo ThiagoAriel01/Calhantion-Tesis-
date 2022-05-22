@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Ra
+  m_EditorClassIdentifier: 
+  description: 'The chief cultic center of Ra was Iunu "the Place of Pillars", later
+    known to the Ptolemaic Kingdom as Heliopolis and today located in the suburbs
+    of Cairo. He was identified with the local sun god Atum. As Atum or Atum-Ra,
+    he was reckoned the first being and the originator of the Ennead ("The Nine"),
+    consisting of Shu and Tefnut, Geb and Nut, Osiris, Set, Isis and Nephthys. The
+    holiday of "The Receiving of Ra" was celebrated on May 26 in the Gregorian calendar.
+
+    
+
+    Ra''s
+    local cult began to grow from roughly the Second Dynasty, establishing him as
+    a sun-deity. By the Fourth Dynasty, pharaohs were seen as Ra''s manifestations
+    on earth, referred to as "Sons of Ra". His worship increased massively in the
+    Fifth Dynasty, when Ra became a state-deity and pharaohs had specially aligned
+    pyramids, obelisks, and sun temples built in his honor. The rulers of the Fifth
+    Dynasty told their followers that they were sons of Ra himself and the wife of
+    the high priest of Heliopolis. These pharaohs spent much of Egypt''s money on
+    sun-temples. The first Pyramid Texts began to arise, giving Ra more and more
+    significance in the journey of the pharaoh through the Duat (underworld).
+
+    
+
+    During
+    the Middle Kingdom, Ra was increasingly affiliated and combined with other chief
+    deities, especially Amun and Osiris.'
+  spr: {fileID: 21300000, guid: 151ef96a1acd0fc4eb5d106463267057, type: 3}
+  icon: {fileID: 21300000, guid: ff20700ff8226e64588a6bd15f841668, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: 70383455a29f8eb4188ba33b2da0ce6b, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167672ff3b040c54dafe0d7193e492ee, type: 3}
+  m_Name: Frenesis
+  m_EditorClassIdentifier: 
+  displayName: Out of Control
+  displayDesc: Gains a speed boost when executed, also, heals 35% of the damage you
+    deal for 15 seconds. Once the effects ends, it adds an debuff state "Tired" that
+    slows your character down.
+  _tags:
+  - primary
+  damage: 0
+  cooldown: 45
+  canReduceCooldown: 1
+  mana: 35
+  recoilVertical: 0
+  recoil: 0
+  delay: 0
+  postDelay: 0.25
+  icon: {fileID: 21300000, guid: 29ae04f50f381634b872c867983e48c5, type: 3}
+  cancelPostDelay: 0.25
+  castsPreview: 0
+  _buff: {fileID: 11400000, guid: 6e61eeb062d749941bcd4f4225a20ebf, type: 2}

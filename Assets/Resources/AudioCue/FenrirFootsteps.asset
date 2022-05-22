@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: FenrirFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a44248b2ba39eb04690b666263ea524c, type: 3}
+  - {fileID: 8300000, guid: 01ab5ba43b5989b4caa0b5eb9a6c0dff, type: 3}
+  - {fileID: 8300000, guid: 532ec195388a898429ffad3988044195, type: 3}
+  - {fileID: 8300000, guid: b3bddefda350db04f870edcccb607137, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 0.5
+  maxVolume: 0.5
+  range: 40

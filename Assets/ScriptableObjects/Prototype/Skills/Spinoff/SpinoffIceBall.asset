@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6154ab9d932ba7144a8ae60d1794dc2b, type: 3}
+  m_Name: SpinoffIceBall
+  m_EditorClassIdentifier: 
+  displayName: 
+  displayDesc: 
+  _tags:
+  - ultimate
+  damage: 360
+  cooldown: 25
+  canReduceCooldown: 1
+  mana: 46
+  recoilVertical: 11
+  recoil: 0
+  delay: 0
+  postDelay: 0.5
+  icon: {fileID: 21300000, guid: 8009aa299cb22a44c88c8854f964fa4c, type: 3}
+  cancelPostDelay: 0
+  castsPreview: 1
+  range: 400
+  duration: 2
+  speed: 400
+  shots: 1
+  spread: 0
+  castPoint: proyectilePoint
+  proyectile: {fileID: 3644245895995388130, guid: 9feb5a455ec411c4cb64aaf5f65f166c,
+    type: 3}
+  explosion: {fileID: 5000879285261968461, guid: 82570550938f70c4785627ad69046494,
+    type: 3}
+  explosionForceMult: 1
+  explosionScale: 2
+  shotPattern: []
+  explosionRate: -1

@@ -1,0 +1,196 @@
+# q3_smalldoor_xi
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_0.tga
+
+# q3_killblock_i2
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_1.tga
+
+# q3_blocks11b
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_2.tga
+
+# q3_xcurve
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_3.tga
+
+# q3_metalsupport
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_4.tga
+
+# q3_pitted_rust3
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_5.tga
+
+# q3_blocks18c3
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_6.tga
+
+# q3_pewter
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_7.tga
+
+# q3_clangdark
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_8.tga
+
+# q3_border11c
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_9.tga
+
+# q3_metalbridge1
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_10.tga
+
+# q3_metalbridge0
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_11.tga
+
+# q3_pitted_rust
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_12.tga
+
+# q3_pittedblack
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_13.tga
+
+# q3_metalfloor_w
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_14.tga
+
+# q3_blocks18cgeo
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_15.tga
+
+# q3_metalsuppo2
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_16.tga
+
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+
+# q3_demonltblack
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_18.tga
+
+# q3_bounce_large
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_19.tga
+
+# q3_largerblock3
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_20.tga
+
+# q3_largerblockb
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_21.tga
+
+# q3_xian_dm3padw
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_22.tga
+
+# q3_tower4
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_23.tga
+
+# q3_clangdark_bo
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_24.tga
+
+# q3_xiandm3talld
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_25.tga
+
+# q3_xiandm32
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_26.tga
+
+# {q3_proto_grate
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_27.tga
+
+# q3_light1blue
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_28.tga
+
+# {q3_grate
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_29.tga
+
+# !lava
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_30.tga
+
+# q3_xstairtop6
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_31.tga
+
+# {q3_banner_strg
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd quakemap_material_32.tga
+

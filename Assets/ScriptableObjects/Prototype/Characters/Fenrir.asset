@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccf968747c536d94ba0dda8428888d17, type: 3}
+  m_Name: Fenrir
+  m_EditorClassIdentifier: 
+  description: "Fenrir is a wolf in Norse mythology. Fenrir, together with Hel and
+    the World Serpent, is a child of Loki and giantess Angrbooa. Is foretold to kill
+    the god Odin during the events of Ragnar\xF6k, but will in turn be killed by
+    Odin's son Vioarr.\r\nDue to the gods' knowledge of prophecies foretelling great
+    trouble from Fenrir and his rapid growth, the gods bound him and as a result
+    Fenrir bit off the right hand of the god Tyr. Depictions of Fenrir have been
+    identified on various objects and scholarly theories have been proposed regarding
+    Fenrir's relation to other canine beings in Norse mythology.\r"
+  spr: {fileID: 21300000, guid: d7bb2f8e6590336408083814379a18ec, type: 3}
+  icon: {fileID: 21300000, guid: 7e78c78227cbdf54cb7cd588a8671ed9, type: 3}
+  _skills: []
+  _basic: {fileID: 11400000, guid: 408d4fe499e534f4893697dcb70adc20, type: 2}

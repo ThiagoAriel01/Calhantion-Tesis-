@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HavelLeftArm
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/L_Calf
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/L_Calf/L_Foot
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/L_Calf/L_Foot/L_Toe0
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/L_Calf/L_Foot/L_Toe0/L_Toe0_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/LCalfTwist
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/L_Thigh/LCalfTwist/LCalfTwist_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/R_Calf
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/R_Calf/R_Foot
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/R_Calf/R_Foot/R_Toe0
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/R_Calf/R_Foot/R_Toe0/R_Toe0_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/RCalfTwist
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Lower_Root/Pelvis/R_Thigh/RCalfTwist/RCalfTwist_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger0
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger0/L_Finger01
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger0/L_Finger01/L_Finger02
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger0/L_Finger01/L_Finger02/L_Finger02_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger1
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger1/L_Finger11
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger1/L_Finger11/L_Finger12
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger1/L_Finger11/L_Finger12/L_Finger12_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger2
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger2/L_Finger21
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger2/L_Finger21/L_Finger22
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Finger2/L_Finger21/L_Finger22/L_Finger22_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Weapon
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_Forearm/L_Hand/L_Weapon/L_Weapon_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_ForeTwist
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/L_UpperArm/L_ForeTwist/L_ForeTwist_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/LUpArmTwist
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/L_Clavicle/LUpArmTwist/LUpArmTwist_end
+    m_Weight: 1
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/Neck
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/Neck/Head
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/Neck/Head/Head_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger0
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger0/R_Finger01
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger0/R_Finger01/R_Finger02
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger0/R_Finger01/R_Finger02/R_Finger02_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger1
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger1/R_Finger11
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger1/R_Finger11/R_Finger12
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger1/R_Finger11/R_Finger12/R_Finger12_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger2
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger2/R_Finger21
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger2/R_Finger21/R_Finger22
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Finger2/R_Finger21/R_Finger22/R_Finger22_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Weapon
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_Forearm/R_Hand/R_Weapon/R_Weapon_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_ForeTwist
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/R_UpperArm/R_ForeTwist/R_ForeTwist_end
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/RUpArmTwist
+    m_Weight: 0
+  - m_Path: havel.qc_skeleton/root/Master/Upper_Root/Spine/Spine1/R_Clavicle/RUpArmTwist/RUpArmTwist_end
+    m_Weight: 0
+  - m_Path: havel__am
+    m_Weight: 0
+  - m_Path: havel__am_s
+    m_Weight: 0
+  - m_Path: havel__bd1
+    m_Weight: 0
+  - m_Path: havel__bd1_s
+    m_Weight: 0
+  - m_Path: havel__bd2
+    m_Weight: 0
+  - m_Path: havel__bd2_s
+    m_Weight: 0
+  - m_Path: havel__hd
+    m_Weight: 0
+  - m_Path: havel__hd_s
+    m_Weight: 0
+  - m_Path: havel__lg
+    m_Weight: 0
+  - m_Path: havel__lg_s
+    m_Weight: 0
+  - m_Path: havel__wp_l
+    m_Weight: 0
+  - m_Path: havel__wp_l_s
+    m_Weight: 0
+  - m_Path: havel__wp_r
+    m_Weight: 0
+  - m_Path: havel__wp_r_s
+    m_Weight: 0

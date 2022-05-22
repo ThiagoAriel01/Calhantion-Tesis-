@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a9d3c878d2f5a4bb5232bf4239e0b6, type: 3}
+  m_Name: AnubisFootsteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 4c56751aa1ce3d3459f1c9f83c19bbfd, type: 3}
+  - {fileID: 8300000, guid: d440d1cb7919a2449b35527a6f833a53, type: 3}
+  - {fileID: 8300000, guid: 001bc1899db34f545979b73eb7f1684e, type: 3}
+  - {fileID: 8300000, guid: ccd9394be4836934888938cc4e829d5d, type: 3}
+  - {fileID: 8300000, guid: f99ac84e82add0a4c813819d0eb2d4cd, type: 3}
+  - {fileID: 8300000, guid: aae3df4a73925214f93887d00a455462, type: 3}
+  - {fileID: 8300000, guid: 0c2355e6e6e815946843405f487eafc4, type: 3}
+  - {fileID: 8300000, guid: 547d6f0aababfff4ea843bac2f75d34b, type: 3}
+  - {fileID: 8300000, guid: 095bd30639116104c82f0f182f79737b, type: 3}
+  - {fileID: 8300000, guid: 333d8898c7be51c40878a96e37b15bd7, type: 3}
+  minPitch: 0.9
+  maxPitch: 1.1
+  minVolume: 1
+  maxVolume: 1
+  range: 40
