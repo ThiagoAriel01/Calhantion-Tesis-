@@ -1,7 +1,10 @@
 # Calhantion-Tesis-
 Links GDD: https://docs.google.com/document/d/1J3NplVkjCocyY1ewXOlLhDHE7ocS9fYvwmDfWS0X9PA/edit?usp=sharing
+
 TDD: https://docs.google.com/document/d/1TGmkIPoowU6Q4Pp_tCMWw0sSHNw_P9AxrYnh1GCLmT0/edit?usp=sharing
+
 Level Desing: https://docs.google.com/document/d/18A8R-ygF2bqRxrRbNDdHL2V-OsPjW3coZepkd6uuT2k/edit?usp=sharing
+
 Habilidades: https://docs.google.com/document/d/1y8Lke-PFKk1VAKHe0uHniJ8IXyRlhNxn/edit?usp=sharing&ouid=113401288742206380795&rtpof=true&sd=true
 
 Extended HighConcept
